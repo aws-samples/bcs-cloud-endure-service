@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  aws.proserve.bcs.ce.config.CloudEndureAutoConfiguration
